@@ -10,8 +10,8 @@ const Routes = () =>{
       <BrowserRouter>
       <Header/>
         <Switch>
-          <Route exact path="/" component={Home}/>
-          <Route  exact path="/filme/:id" component={Filme}/>
+          <Route exact path="/filmaria-app/" component={Home}/>
+          <Route  exact path="/filmaria-app/filme/:id" component={Filme}/>
           <Route path="*" component={Erro}/>
         </Switch>
       </BrowserRouter>

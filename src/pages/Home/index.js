@@ -40,7 +40,7 @@ class Home extends Component{
             <article className="filme" key={filme.id}>
               <strong>{filme.nome}</strong>
               <img src={filme.foto} alt="Capa" />
-              <Link to={`/filme/${filme.id}`}>Acessar</Link>
+              <Link to={`/filmaria-app/filme/${filme.id}`}>Acessar</Link>
             </article>
           );
         })}
