@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/filmaria-app/static/css/main.75f992ce.chunk.css",
-    "main.js": "/filmaria-app/static/js/main.98d1f7a4.chunk.js",
-    "main.js.map": "/filmaria-app/static/js/main.98d1f7a4.chunk.js.map",
+    "main.js": "/filmaria-app/static/js/main.57d42198.chunk.js",
+    "main.js.map": "/filmaria-app/static/js/main.57d42198.chunk.js.map",
     "runtime-main.js": "/filmaria-app/static/js/runtime-main.497c1cd2.js",
     "runtime-main.js.map": "/filmaria-app/static/js/runtime-main.497c1cd2.js.map",
     "static/js/2.f17553c4.chunk.js": "/filmaria-app/static/js/2.f17553c4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.497c1cd2.js",
     "static/js/2.f17553c4.chunk.js",
     "static/css/main.75f992ce.chunk.css",
-    "static/js/main.98d1f7a4.chunk.js"
+    "static/js/main.57d42198.chunk.js"
   ]
 }
